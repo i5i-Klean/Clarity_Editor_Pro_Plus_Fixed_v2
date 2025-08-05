@@ -1,0 +1,1 @@
+Clarity Editor Pro+ with font.getsize fix
